@@ -1,2 +1,10 @@
-for i in range(100):
-    print(i)
+from bot import MusicBot
+
+
+def main():
+    bot = MusicBot()
+    bot.run()
+    
+
+if __name__ == "__main__":
+    main()
