@@ -1,6 +1,7 @@
 ### Custom ###
 token.txt
 openjdk-13.0.2_windows-x64_bin/
+openjdk-13.0.2_macOS-x64_bin/
 
 
 ### Python ###
@@ -143,6 +144,7 @@ dmypy.json
 
 # operating system-related files
 *.DS_Store #file properties cache/storage on macOS
+.DS_Store
 Thumbs.db #thumbnail cache on Windows
 
 # profiling data
