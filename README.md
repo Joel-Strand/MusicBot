@@ -1,1 +1,3 @@
 # MusicBot
+
+DEPRECATED
